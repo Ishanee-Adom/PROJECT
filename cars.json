@@ -1,0 +1,47 @@
+[
+    {
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "year": 2024,
+      "description": "Sleek and efficient compact car, perfect for city driving",
+      "performance": "0-60 mph in 8.2 seconds, 35 mpg city/42 mpg highway",
+      "price": 22000.00,
+      "image_path": "chevrolet.jpeg"
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2023,
+      "description": "Sporty midsize sedan with advanced safety features",
+      "performance": "0-60 mph in 7.5 seconds, 30 mpg city/38 mpg highway",
+      "price": 25000.00,
+      "image_path": "Honda.jpeg"
+    },
+    {
+      "make": "Lexus",
+      "model": "RX",
+      "year": 2022,
+      "description": "Luxurious SUV with ample space and cutting-edge technology",
+      "performance": "0-60 mph in 6.8 seconds, 22 mpg city/28 mpg highway",
+      "price": 45000.00,
+      "image_path": "Lexus.jpg"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S",
+      "year": 2021,
+      "description": "Electric sedan with long range and futuristic features",
+      "performance": "0-60 mph in 3.1 seconds, 358 miles range",
+      "price": 54990.00,
+      "image_path": "Tesla.jpg"
+    },
+    {
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": 2020,
+      "description": "Rugged off-road SUV with classic styling",
+      "performance": "0-60 mph in 7.6 seconds, 17 mpg city/25 mpg highway",
+      "price": 33000.00,
+      "image_path": "Jeep.jpg"
+    }
+  ]
